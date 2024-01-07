@@ -1,0 +1,11 @@
+D:\Homework\SystemModeling\Lab3\Lab3\Lab3\bin\Debug\Lab3.exe.config
+D:\Homework\SystemModeling\Lab3\Lab3\Lab3\bin\Debug\Lab3.exe
+D:\Homework\SystemModeling\Lab3\Lab3\Lab3\bin\Debug\Lab3.pdb
+D:\Homework\SystemModeling\Lab3\Lab3\Lab3\obj\Debug\Lab3.csproj.AssemblyReference.cache
+D:\Homework\SystemModeling\Lab3\Lab3\Lab3\obj\Debug\Lab3.StartForm.resources
+D:\Homework\SystemModeling\Lab3\Lab3\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+D:\Homework\SystemModeling\Lab3\Lab3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.cache
+D:\Homework\SystemModeling\Lab3\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+D:\Homework\SystemModeling\Lab3\Lab3\Lab3\obj\Debug\Lab3.exe
+D:\Homework\SystemModeling\Lab3\Lab3\Lab3\obj\Debug\Lab3.pdb
+D:\Homework\SystemModeling\Lab3\Lab3\Lab3\obj\Debug\Lab3.GameForm.resources
